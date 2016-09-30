@@ -1,6 +1,20 @@
-# Requests
+# Morganey Language Organization #
 
-# Draft of the Rules
+## Roles ##
+
+### Owner ###
+
+TBD
+
+### Project Leader ###
+
+TBD
+
+### Member ###
+
+TBD
+
+## Draft of the Rules ##
 
 - Anyone can join @morganey-lang organization as a Member
 
