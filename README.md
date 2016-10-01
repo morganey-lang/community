@@ -1,10 +1,20 @@
-# Morganey Language Organization #
+# Morganey Language Organization Rules #
 
 ## Roles ##
 
 ### Owner ###
 
-TBD
+#### Rights ####
+
+- Owners have full owner access to [@morganey-lang]
+- Owners can use any technical measures availabled to them to regulate
+  [@morganey-lang] according to the Rules
+
+#### Responsibilities ####
+
+- Regulate the [@morganey-lang] according to the Rules
+- Maintain and improve the Rules
+- Handle organization requests
 
 ### Project Leader ###
 
@@ -33,3 +43,5 @@ TBD
         - featuring the project on the morganey web-site (we probably gonna have one)
         - more contributors from the members and the neighbor projects
         - ???
+
+[@morganey-lang]: https://github.com/morganey-lang
