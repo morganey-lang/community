@@ -24,6 +24,7 @@ TBD
 
 TBD
 
+
 ## Draft of the Rules ##
 
 - Anyone can join @morganey-lang organization as a Member
@@ -44,4 +45,12 @@ TBD
         - more contributors from the members and the neighbor projects
         - ???
 
+## Creating a new repo ##
+
+Creating a new repo in the organization is a serious decision and
+should be properly discussed with organization Owners and
+Members. Preferably via a request to the [organization] repo.
+
+
 [@morganey-lang]: https://github.com/morganey-lang
+[organization]: https://github.com/morganey-lang/organization
