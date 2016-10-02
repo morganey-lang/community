@@ -4,6 +4,9 @@
 
 ### Owner ###
 
+Owner is a person who participate in administrative activities of the
+[@morganey-lang] organization.
+
 #### Rights ####
 
 - Owners have full owner access to [@morganey-lang]
@@ -14,7 +17,7 @@
 
 - Regulate the [@morganey-lang] according to the Rules
 - Maintain and improve the Rules
-- Handle organization requests
+- Handle [organization requests][organization-requests]
 
 ### Project Leader ###
 
@@ -54,3 +57,4 @@ Members. Preferably via a request to the [organization] repo.
 
 [@morganey-lang]: https://github.com/morganey-lang
 [organization]: https://github.com/morganey-lang/organization
+[organization-requests]: https://github.com/morganey-lang/organization/issues
