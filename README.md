@@ -90,6 +90,15 @@ Back transfer also applies to the projects that initially started in
 The Project Leader is responsible for organizing the development
 process of the projects they lead.
 
+## Project Licensing Requirement ##
+
+All of the projects of [@morganey-lang] organization are required to
+be licensed under one of the following licenses:
+
+- MIT
+- BSD
+- WTFPL
+
 ## Draft of the Rules ##
 
 - Transfering the project gives
