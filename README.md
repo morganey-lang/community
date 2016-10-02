@@ -99,13 +99,12 @@ be licensed under one of the following licenses:
 - BSD
 - WTFPL
 
-## Draft of the Rules ##
+## Benefits of Joining a Project to Morganey Language Organization ##
 
-- Transfering the project gives
-
-    - featuring the project on the morganey web-site (we probably gonna have one)
-    - more contributors from the members and the neighbor projects
-    - ???
+- Help from the team with organizing the project development process.
+- Collective code review and issue discussion.
+- Featuring the project on [@morganey-lang] organization and web-site
+  (when it's done)
 
 [@morganey-lang]: https://github.com/morganey-lang
 [organization]: https://github.com/morganey-lang/organization
