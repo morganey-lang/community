@@ -41,7 +41,8 @@ A member of [@morganey-lang] organization. Owners and Project Leaders are Member
 #### Rights ####
 
 - Being a part of [@morganey-lang] organization
-- Leaving the [@morganey-lang] organization at any time
+- Leaving the [@morganey-lang] organization at any time (which leads
+  to losing the Member status)
 
 #### Responsibilities ####
 
@@ -55,6 +56,12 @@ should [make an organization request][organization-requests]. The
 request will be handled by one of the Owners.
 
 Member can leave the organization at any time.
+
+## Becoming a Project Leader ##
+
+If anyone have an Open Sourced Morganey related project, they can join
+the organization as a Project Leader by transfering the ownership of
+the project to [@morganey-lang].
 
 ## Draft of the Rules ##
 
