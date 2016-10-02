@@ -47,6 +47,14 @@ A member of [@morganey-lang] organization. Owners and Project Leaders are Member
 
 - Not being an asshole
 
+## Becoming a Member ##
+
+To become a Member of [@morganey-lang] organization one
+should [make an organization request][organization-requests]. The
+request will be handled by one of the Owners.
+
+Member can leave the organization at any time.
+
 ## Draft of the Rules ##
 
 - Anyone can join @morganey-lang organization as a Member
