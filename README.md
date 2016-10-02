@@ -29,14 +29,23 @@ Project Leader (PL) is a person who leads a [@morganey-lang] organization projec
 - PLs can transfer their repos back at any time (which leads to losing
   the PL status for the projects of the transfered back repos)
 
-#### Responsibilites ####
+#### Responsibilities ####
 
 - PLs are responsible for organizing the development process of the
   projects they lead.
 
 ### Member ###
 
-TBD
+A member of [@morganey-lang] organization. Owners and Project Leaders are Members too.
+
+#### Rights ####
+
+- Being a part of [@morganey-lang] organization
+- Leaving the [@morganey-lang] organization at any time
+
+#### Responsibilities ####
+
+- Not being an asshole
 
 ## Draft of the Rules ##
 
@@ -63,7 +72,6 @@ TBD
 Creating a new repo in the organization is a serious decision and
 should be properly discussed with organization Owners and
 Members. Preferably via a request to the [organization] repo.
-
 
 [@morganey-lang]: https://github.com/morganey-lang
 [organization]: https://github.com/morganey-lang/organization
