@@ -106,6 +106,11 @@ be licensed under one of the following licenses:
 - Featuring the project on [@morganey-lang] organization and web-site
   (when it's done)
 
+## Questions, requests, discussions and more ##
+
+If you have anything to say to the [@morganey-lang] organization in
+general, just [file an issue][organization-requests]
+
 [@morganey-lang]: https://github.com/morganey-lang
 [organization]: https://github.com/morganey-lang/organization
 [organization-requests]: https://github.com/morganey-lang/organization/issues
