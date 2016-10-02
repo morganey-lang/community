@@ -45,6 +45,7 @@ A member of [@morganey-lang] organization. Owners and Project Leaders are Member
 
 #### Responsibilities ####
 
+- Following the organization Rules
 - Not being an asshole
 
 ## Becoming a Member ##
