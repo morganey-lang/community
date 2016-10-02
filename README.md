@@ -59,35 +59,44 @@ Member can leave the organization at any time.
 
 ## Becoming a Project Leader ##
 
-If anyone have an Open Sourced Morganey related project, they can join
+If anyone have an Open Source Morganey related project, they can join
 the organization as a Project Leader by transfering the ownership of
 the project to [@morganey-lang].
 
+It is required to
+file [an organization request][organization-requests] before actually
+transfering the repo to let the organization members know about
+upcoming new project and have a place to ask Owners for help if any
+technical difficulties happen during the repo transfer.
+
+PLs can transfer their repos back if at any time. To do that before
+performing the actual back transfer PL have to
+submit [an organization request][organization-requests] to notify the
+organization members about a project leaving the organization. A brief
+explanation about the reason of leaving the organization is
+appreciated but optional. Owners should help with any technical
+difficulties that may happen during the back transfer.
+
+If anyone wants to start an Open Source Morganey related project right
+in the [@morganey-lang] organization, they can
+submit [an organization request][organization-requests] with brief
+description of the project idea. If the idea is accepted by
+organization members a new repo should be created and the reporter of
+the organization request becomes the Project Leader of a new project.
+
+Back transfer also applies to the projects that initially started in
+[@morganey-lang]. They can be transfered to the Project Leader.
+
+The Project Leader is responsible for organizing the development
+process of the projects they lead.
+
 ## Draft of the Rules ##
 
-- Anyone can join @morganey-lang organization as a Member
+- Transfering the project gives
 
-- If someone have an Open Sourced Morganey related project, they can join the organization as a Project Leader by transfering the ownership of the project to @morganey-lang. What that means:
-
-    - The Project Leader preserves all of the legal rights on the transfered project. From the technical point of view I will make sure that after the transfering the ownership the Project Leader has enough control over their repo.
-
-    - The Project Leader can transfer their project back. From the technical point of view I will help to do that.
-
-    - The Project Leader continues to decide on how to organize the development process of the transfered repo.
-
-    - The Project Leader can transfer the project to @morganey-lang completely which includes (but not limited to) transfering all of the legal rights on the project, ability to transfer the ownership of the project back, ability to organize the development process of the project. (This is required if the Project Leader cannot work on the project anymore and don't want the project to die. They simply donate the project to the organization).
-
-    - Transfering the project gives
-
-        - featuring the project on the morganey web-site (we probably gonna have one)
-        - more contributors from the members and the neighbor projects
-        - ???
-
-## Creating a new repo ##
-
-Creating a new repo in the organization is a serious decision and
-should be properly discussed with organization Owners and
-Members. Preferably via a request to the [organization] repo.
+    - featuring the project on the morganey web-site (we probably gonna have one)
+    - more contributors from the members and the neighbor projects
+    - ???
 
 [@morganey-lang]: https://github.com/morganey-lang
 [organization]: https://github.com/morganey-lang/organization
