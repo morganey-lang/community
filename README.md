@@ -21,12 +21,22 @@ Owner is a person who participate in administrative activities of the
 
 ### Project Leader ###
 
-TBD
+Project Leader (PL) is a person who leads a [@morganey-lang] organization project.
+
+#### Rights ####
+
+- PLs have full admin access to the repos of the projects they lead
+- PLs can transfer their repos back at any time (which leads to losing
+  the PL status for the projects of the transfered back repos)
+
+#### Responsibilites ####
+
+- PLs are responsible for organizing the development process of the
+  projects they lead.
 
 ### Member ###
 
 TBD
-
 
 ## Draft of the Rules ##
 
