@@ -1,3 +1,8 @@
+# organization #
+
+- Project Leader: [@rexim]
+- URL: https://github.com/morganey-lang/organization
+
 # Morganey #
 
 - Project Leader: [@rexim]
@@ -27,11 +32,6 @@
 
 - Project Leader: [@06needhamt]
 - URL: https://github.com/morganey-lang/morganey-vscode-extension
-
-# organization #
-
-- Project Leader: [@rexim]
-- URL: https://github.com/morganey-lang/organization
 
 [@rexim]: https://github.com/rexim
 [@keddelzz]: https://github.com/keddelzz
