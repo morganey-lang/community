@@ -21,7 +21,9 @@ Owner is a person who participate in administrative activities of the
 
 ### Project Leader ###
 
-Project Leader (PL) is a person who leads a [@morganey-lang] organization project.
+Project Leader (PL) is a person who leads a [@morganey-lang]
+organization project. For list of projects and their corresponding
+leaders see [Projects.md](Projects.md)
 
 #### Rights ####
 
