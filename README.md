@@ -23,7 +23,7 @@ Owner is a person who participate in administrative activities of the
 
 Project Leader (PL) is a person who leads a [@morganey-lang]
 organization project. For list of projects and their corresponding
-projects see [Projects.md](Projects.md)
+leaders see [Projects.md](Projects.md)
 
 #### Rights ####
 
