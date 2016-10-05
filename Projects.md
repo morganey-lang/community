@@ -1,4 +1,4 @@
-# organization #
+# Community #
 
 - Project Leader: [@rexim]
 - URL: https://github.com/morganey-lang/organization
