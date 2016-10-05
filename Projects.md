@@ -32,3 +32,9 @@
 
 - Project Leader: [@rexim]
 - URL: https://github.com/morganey-lang/organization
+
+[@rexim]: https://github.com/rexim
+[@keddelzz]: https://github.com/keddelzz
+[@06needhamt]: https://github.com/06needhamt
+[@ForNeVeR]: https://github.com/ForNeVeR
+[@Newlifer]: https://github.com/Newlifer
