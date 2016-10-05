@@ -17,7 +17,7 @@ Owner is a person who participate in administrative activities of the
 
 - Regulate the [@morganey-lang] according to the Rules
 - Maintain and improve the Rules
-- Handle [community requests][organization-requests]
+- Handle [community requests][community-requests]
 
 ### Project Leader ###
 
@@ -54,7 +54,7 @@ A member of [@morganey-lang] community. Owners and Project Leaders are Members t
 ## Becoming a Member ##
 
 To become a Member of [@morganey-lang] community one
-should [make an community request][organization-requests]. The
+should [make an community request][community-requests]. The
 request will be handled by one of the Owners.
 
 Member can leave the community at any time.
@@ -66,14 +66,14 @@ the community as a Project Leader by transfering the ownership of
 the project to [@morganey-lang].
 
 It is required to
-file [an community request][organization-requests] before actually
+file [an community request][community-requests] before actually
 transfering the repo to let the community members know about
 upcoming new project and have a place to ask Owners for help if any
 technical difficulties happen during the repo transfer.
 
 PLs can transfer their repos back if at any time. To do that before
 performing the actual back transfer PL have to
-submit [an community request][organization-requests] to notify the
+submit [an community request][community-requests] to notify the
 community members about a project leaving the community. A brief
 explanation about the reason of leaving the community is
 appreciated but optional. Owners should help with any technical
@@ -81,7 +81,7 @@ difficulties that may happen during the back transfer.
 
 If anyone wants to start an Open Source Morganey related project right
 in the [@morganey-lang] community, they can
-submit [an community request][organization-requests] with brief
+submit [an community request][community-requests] with brief
 description of the project idea. If the idea is accepted by
 community members a new repo should be created and the reporter of
 the community request becomes the Project Leader of a new project.
@@ -111,8 +111,8 @@ be licensed under one of the following licenses:
 ## Questions, requests, discussions and more ##
 
 If you have anything to say to the [@morganey-lang] community in
-general, just [file an issue][organization-requests]
+general, just [file an issue][community-requests]
 
 [@morganey-lang]: https://github.com/morganey-lang
-[organization]: https://github.com/morganey-lang/organization
-[organization-requests]: https://github.com/morganey-lang/organization/issues
+[community]: https://github.com/morganey-lang/community
+[community-requests]: https://github.com/morganey-lang/community/issues
