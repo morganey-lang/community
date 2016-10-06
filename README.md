@@ -2,22 +2,20 @@
 
 ## Roles ##
 
-### Owner ###
+### Member ###
 
-Owner is a person who participates in administrative activities of the
-[@morganey-lang] community.
+A member of [@morganey-lang] community. Owners and Project Leaders are Members too.
 
 #### Rights ####
 
-- Owners have full owner access to [@morganey-lang].
-- Owners can use any technical measures available to them to regulate
-  [@morganey-lang] according to the Rules.
+- To be a part of [@morganey-lang] community.
+- Leave the [@morganey-lang] community at any time (which leads
+  to losing the Member status).
 
 #### Responsibilities ####
 
-- Regulate the [@morganey-lang] according to the Rules.
-- Maintain and improve the Rules.
-- Handle [community requests][community-requests].
+- Follow the community Rules.
+- Don't be an asshole.
 
 ### Project Leader ###
 
@@ -35,20 +33,22 @@ leaders see [Projects.md](Projects.md).
 
 - PLs organize the development process of the projects they lead.
 
-### Member ###
+### Owner ###
 
-A member of [@morganey-lang] community. Owners and Project Leaders are Members too.
+Owner is a person who participates in administrative activities of the
+[@morganey-lang] community.
 
 #### Rights ####
 
-- To be a part of [@morganey-lang] community.
-- Leave the [@morganey-lang] community at any time (which leads
-  to losing the Member status).
+- Owners have full owner access to [@morganey-lang].
+- Owners can use any technical measures available to them to regulate
+  [@morganey-lang] according to the Rules.
 
 #### Responsibilities ####
 
-- Follow the community Rules.
-- Don't be an asshole.
+- Regulate the [@morganey-lang] according to the Rules.
+- Maintain and improve the Rules.
+- Handle [community requests][community-requests].
 
 ## Becoming a Member ##
 
