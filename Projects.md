@@ -3,6 +3,11 @@
 - Project Leader: [@rexim]
 - URL: https://github.com/morganey-lang/community
 
+# morganey-lang.github.io
+
+- Project Leader: [@rexim]
+- URL: https://github.com/morganey-lang/morganey-lang.github.io
+
 # Morganey #
 
 - Project Leader: [@rexim]
