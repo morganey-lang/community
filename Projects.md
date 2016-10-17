@@ -38,6 +38,11 @@
 - Project Leader: [@06needhamt]
 - URL: https://github.com/morganey-lang/morganey-vscode-extension
 
+# morganey-mode #
+
+- Project Leader: [@rexim]
+- URL: https://github.com/morganey-lang/morganey-mode
+
 [@rexim]: https://github.com/rexim
 [@keddelzz]: https://github.com/keddelzz
 [@06needhamt]: https://github.com/06needhamt
