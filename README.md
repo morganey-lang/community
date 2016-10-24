@@ -25,7 +25,7 @@ leaders see [Projects.md](Projects.md).
 
 #### Rights ####
 
-- PLs have full admin access to the repos of the projects they lead.
+- PLs have admin access to the repos of the projects they lead.
 - PLs can transfer their repos back at any time (which leads to losing
   the PL status in projects related to transferred repos).
 
@@ -40,8 +40,8 @@ Owner is a person who participates in administrative activities of the
 
 #### Rights ####
 
-- Owners have full owner access to [@morganey-lang].
-- Owners can use any technical measures available to them to regulate
+- Owners have owner access to [@morganey-lang].
+- Owners can use any available technical measures to regulate
   [@morganey-lang] according to the Rules.
 
 #### Responsibilities ####
