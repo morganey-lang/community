@@ -95,11 +95,14 @@ process of the projects they lead.
 
 ## Project Licensing Requirement ##
 
-All of the projects of [@morganey-lang] community are required to
-be licensed under one of the following licenses:
+Here's a list of licenses recommended by [@morganey-lang] to use in the
+community projects:
 
 - MIT
 - BSD
+
+Projects that are not using these licenses will be considered on a case by case
+basis.
 
 ## Benefits of Transferring a Project to Morganey Language Community ##
 
