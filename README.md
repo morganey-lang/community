@@ -95,7 +95,7 @@ process of the projects they lead.
 
 ## Project Licensing Requirement ##
 
-Here's a list of licenses recommended by [@morganey-lang] to use in the
+We recommend using one of the following licenses for [@morganey-lang] 
 community projects:
 
 - MIT
