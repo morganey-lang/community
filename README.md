@@ -100,7 +100,6 @@ be licensed under one of the following licenses:
 
 - MIT
 - BSD
-- WTFPL
 
 ## Benefits of Transferring a Project to Morganey Language Community ##
 
