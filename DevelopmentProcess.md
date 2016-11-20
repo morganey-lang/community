@@ -8,7 +8,6 @@ They are completely optional, because [per rules](README.md#becoming-a-project-l
 > The Project Leaders are responsible for organizing the development process of the projects they lead.
 
 So, before contributing anything to any of the [@morganey-lang]'s projects, ask a corresponding Project Leader about development process details. See [Projects.md](Projects.md) for the full list of [@morganey-lang] projects and their corresponding Project Leaders.
-f
 
 ## Release Process
 
