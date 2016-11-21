@@ -13,26 +13,32 @@ If you're a Project Leader, consider following these practices.
 
 ## Release Process
 
-*TBD*
+*TBD([#33])*
 
 ## Issue Tracker Hygiene
 
-*TBD*
+*TBD([#34])*
 
 ## Problem Reporting Format
 
-*TBD*
+*TBD([#35])*
 
 ## Label System
 
-*TBD*
+*TBD([#36])*
 
 ## Contribution Protocol
 
-*TBD*
+*TBD([#37])*
 
 ## Issue & PR templates
 
-*TBD*
+*TBD([#38])*
 
 [@morganey-lang]: https://github.com/morganey-lang
+[#33]: https://github.com/morganey-lang/community/issues/33
+[#34]: https://github.com/morganey-lang/community/issues/34
+[#35]: https://github.com/morganey-lang/community/issues/35
+[#36]: https://github.com/morganey-lang/community/issues/36
+[#37]: https://github.com/morganey-lang/community/issues/37
+[#38]: https://github.com/morganey-lang/community/issues/38
