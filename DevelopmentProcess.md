@@ -25,7 +25,7 @@ If you're a Project Leader, consider following these practices.
 
 ## Label System
 
-*TBD([#36])*
+*TBD([#21])*
 
 ## Contribution Protocol
 
@@ -39,6 +39,6 @@ If you're a Project Leader, consider following these practices.
 [#33]: https://github.com/morganey-lang/community/issues/33
 [#34]: https://github.com/morganey-lang/community/issues/34
 [#35]: https://github.com/morganey-lang/community/issues/35
-[#36]: https://github.com/morganey-lang/community/issues/36
+[#21]: https://github.com/morganey-lang/community/issues/21
 [#37]: https://github.com/morganey-lang/community/issues/37
 [#38]: https://github.com/morganey-lang/community/issues/38
