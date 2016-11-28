@@ -19,7 +19,7 @@ If you're a Project Leader, consider following these practices.
   * what issues are going to be included into a release,
   * what artifacts are part of a release.
 - The released artifacts should be published at least via [GitHub Releases](github-releases) mechanism if applicable.
-- If artifacts require extra distribution options they should be published to other places accordingly (e.g. Maven repos, Plugin stores and such).
+- If artifacts require extra distribution options they should be published to other places accordingly (e.g. Maven repos, plugin stores and such).
 - It is strongly recommended to plan big and major releases via [GitHub Milestones](github-milestones) mechanism. For each such release there should a corresponding release milestone named as the version of the release.
 - The Project Leader should be responsible for creating and organizing release milestones.
 
