@@ -13,7 +13,15 @@ If you're a Project Leader, consider following these practices.
 
 ## Release Process
 
-*TBD([#33])*
+- [Semantic Versioning 2.0.0][semver] should be used for project releases versioning.
+- The Project Leader is responsible for planning releases and publishing the released project artifacts. Only he/she can decide
+  * what's going to be the version number of a release,
+  * what issues are going to be included into a release,
+  * what artifacts are part of a release.
+- The released artifacts should be published at least via [GitHub Releases](github-releases) mechanism if applicable.
+- If artifacts require extra distribution options they should be published to other places accordingly (e.g. Maven repos, plugin stores and such).
+- It is strongly recommended to plan big and major releases via [GitHub Milestones](github-milestones) mechanism. For each such release there should a corresponding release milestone named as the version of the release.
+- The Project Leader should be responsible for creating and organizing release milestones.
 
 ## Issue Tracker Hygiene
 
@@ -36,9 +44,11 @@ If you're a Project Leader, consider following these practices.
 *TBD([#38])*
 
 [@morganey-lang]: https://github.com/morganey-lang
-[#33]: https://github.com/morganey-lang/community/issues/33
 [#34]: https://github.com/morganey-lang/community/issues/34
 [#35]: https://github.com/morganey-lang/community/issues/35
 [#21]: https://github.com/morganey-lang/community/issues/21
 [#37]: https://github.com/morganey-lang/community/issues/37
 [#38]: https://github.com/morganey-lang/community/issues/38
+[semver]: http://semver.org/
+[github-milestones]: https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/
+[github-releases]: https://help.github.com/articles/creating-releases/
