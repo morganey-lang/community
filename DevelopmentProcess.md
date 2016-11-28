@@ -13,12 +13,12 @@ If you're a Project Leader, consider following these practices.
 
 ## Release Process
 
-- [Semantic Versioning 2.0.0][semver] should be used for versioning project artifacts.
+- [Semantic Versioning 2.0.0][semver] should be used for versioning of project artifacts.
 - Everything that goes into each individual release should be captured in the issue tracker.
-- Each release should be planned a set of issues grouped into a milestone (See [GitHub Milestones][github-milestones] for more info)
+- Each release should be planned a set of issues grouped into a milestone (See [GitHub Milestones][github-milestones] for more info).
 - The release milestone should be named as a corresponding release version.
-- Once all issues in the release milestone are closed the corresponding version of the project artifacts should be released (See [GitHub Releases][github-releases] for more info)
-- The Project Leader should be responsible for creating and organizing release milestones and performing artifact releases via [GitHub Releases](github-releases) mechanism.
+- Once all issues in the release milestone are closed the corresponding version of the project artifacts should be released (See [GitHub Releases][github-releases] for more info).
+- The Project Leader should be responsible for creating and organizing release milestones and publishing the released artifact via [GitHub Releases](github-releases) mechanism.
 - The preferable way of letting the Project Leader know that a particular issue should be included in a particular release is to leave a comment in the corresponding issue.
 
 ## Issue Tracker Hygiene
