@@ -25,7 +25,7 @@ If you're a Project Leader, consider following these practices.
 
 ## Issue Tracker Hygiene
 
-*TBD([#34])*
+Any issue tracker naturally becomes messy over time. That is completely normal. It is generally a good idea for the Project Leaders to periodically go through all of the issues of their projects and clean them up. Weekly or monthly depending on the size of the project and amount of development activity.
 
 ## Problem Reporting Format
 
@@ -44,7 +44,6 @@ If you're a Project Leader, consider following these practices.
 *TBD([#38])*
 
 [@morganey-lang]: https://github.com/morganey-lang
-[#34]: https://github.com/morganey-lang/community/issues/34
 [#35]: https://github.com/morganey-lang/community/issues/35
 [#21]: https://github.com/morganey-lang/community/issues/21
 [#37]: https://github.com/morganey-lang/community/issues/37
