@@ -27,9 +27,9 @@ If you're a Project Leader, consider following these practices.
 
 Issue tracking is the most important thing in any development process. Any project contains infinite amount of issues, the more we track, the better project we can build. Everything related to the project should be captured either in the code or in the issue tracker. Ideally 100% of project related communications should be done via Issue Tracker only. That ensures that communications are centralized and properly archived for future convenient reference.
 
-### Issue Categories ###
+### Label System ###
 
-*TBD*
+*TBD([#21])*
 
 ### Issue Tracker Hygiene ###
 
@@ -38,10 +38,6 @@ Any issue tracker naturally becomes messy over time. That is completely normal. 
 ## Problem Reporting Format
 
 *TBD([#35])*
-
-## Label System
-
-*TBD([#21])*
 
 ## Contribution Protocol
 
