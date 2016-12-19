@@ -23,17 +23,21 @@ If you're a Project Leader, consider following these practices.
 - It is strongly recommended to plan big and major releases via [GitHub Milestones](github-milestones) mechanism. For each such release there should a corresponding release milestone named as the version of the release.
 - The Project Leader should be responsible for creating and organizing release milestones.
 
-## Issue Tracker Hygiene
+## Issue Tracking
 
-*TBD([#34])*
+Issue tracking is the most important thing in any development process. Any project contains infinite amount of issues, the more we track, the better project we can build. Everything related to the project should be captured either in the code or in the issue tracker. Ideally 100% of project related communications should be done via Issue Tracker only. That ensures that communications are centralized and properly archived for future convenient reference.
+
+### Label System ###
+
+*TBD([#21])*
+
+### Issue Tracker Hygiene ###
+
+Any issue tracker naturally becomes messy over time. That is completely normal. It is generally a good idea for the Project Leaders to periodically go through all of the issues of their projects and clean them up. Weekly or monthly depending on the size of the project and amount of development activity.
 
 ## Problem Reporting Format
 
 *TBD([#35])*
-
-## Label System
-
-*TBD([#21])*
 
 ## Contribution Protocol
 
@@ -44,7 +48,6 @@ If you're a Project Leader, consider following these practices.
 *TBD([#38])*
 
 [@morganey-lang]: https://github.com/morganey-lang
-[#34]: https://github.com/morganey-lang/community/issues/34
 [#35]: https://github.com/morganey-lang/community/issues/35
 [#21]: https://github.com/morganey-lang/community/issues/21
 [#37]: https://github.com/morganey-lang/community/issues/37
